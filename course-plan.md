@@ -33,9 +33,11 @@ Al finalizar esta lección podrás:
 #### Contenido
 
 **¿Qué es programar?**
+
 Programar es escribir instrucciones que una computadora puede entender y ejecutar. Igual que una receta de cocina le dice al cocinero qué hacer paso a paso, un programa le dice a la computadora exactamente qué hacer.
 
 **¿Qué es Java?**
+
 Java es un lenguaje de programación muy popular que se usa para crear:
 - Aplicaciones de Android
 - Videojuegos
@@ -91,6 +93,7 @@ Al finalizar esta lección podrás:
 #### Contenido
 
 **¿Qué es una variable?**
+
 Una variable es como una caja con nombre donde guardas información. Puedes cambiar lo que hay dentro en cualquier momento.
 
 **Tipos de datos principales**
@@ -264,6 +267,7 @@ Al finalizar esta lección podrás:
 #### Contenido
 
 **¿Qué es un método?**
+
 Un método es un bloque de código con nombre que puedes usar cuantas veces quieras. Evita repetir el mismo código.
 
 ```java
@@ -346,11 +350,13 @@ Al finalizar esta lección podrás:
 #### Contenido
 
 **¿Qué es la Programación Orientada a Objetos?**
+
 La POO organiza el código en torno a **objetos** que tienen:
 - **Atributos** → características (nombre, edad, promedio)
 - **Métodos** → acciones (estudiar, mostrarInfo)
 
 **Tu primera clase — empecemos simple**
+
 Una **clase** es el molde; un **objeto** es algo real hecho con ese molde. Mira este ejemplo mínimo antes de pasar al caso completo:
 
 ```java
