@@ -8,7 +8,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 **Público objetivo**: Estudiantes de 12 a 17 años sin experiencia en programación
 **Prerrequisitos**: Ninguno
 **Herramientas necesarias**: **¡Solo tu navegador web!** (Chrome, Firefox, Safari, Edge)
-**Repositorio de código fuente**: [https://github.com/yourusername/java-fundamentals-course-teamname](https://github.com/yourusername/java-fundamentals-course-teamname)
+**Repositorio de código fuente**: [https://github.com/Kauflink/java-fundamentals-course](https://github.com/Kauflink/java-fundamentals-course)
 
 ---
 
@@ -560,7 +560,7 @@ public class EjemploCorregido {
 
 ## Recursos Adicionales
 
-**Código fuente completo**: [Repositorio de GitHub](https://github.com/yourusername/java-fundamentals-course-teamname)
+**Código fuente completo**: [Repositorio de GitHub](https://github.com/Kauflink/java-fundamentals-course)
 
 ### Todas las actividades prácticas
 
