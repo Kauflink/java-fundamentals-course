@@ -591,7 +591,9 @@ Carrera de Ingeniería de Software
 Período 202610
 
 
-1ASI0729 Desarrollo de Aplicaciones Open Source 11990
+1ASI0729 Desarrollo de Aplicaciones Open Source
+
+NRC 11990
 
 **Nombre del equipo**: Kauflink
 
@@ -604,4 +606,5 @@ Período 202610
 - Elynor Mikela Palma De Los Santos
 - Jose Antonio Peirano Brun
 - Joseph Julius Camargo Briceño
+
 **Fecha de entrega**: [Fecha]
