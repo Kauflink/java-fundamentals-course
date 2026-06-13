@@ -62,7 +62,7 @@ public class MiPrograma {
 
 #### Práctica
 
-**Empieza a programar**: [Abrir Replit – Hola Mundo](https://replit.com/@yourusername/lesson1-hola-mundo)
+**Empieza a programar**: [Abrir en OnlineGDB – Hola Mundo](https://onlinegdb.com/FVMd5t2_e)
 
 **Ejercicio**: Cambia el texto `"¡Hola, Mundo!"` por `"¡Hola, me llamo [tu nombre]!"` y ejecuta el programa.
 
@@ -129,7 +129,7 @@ public class PerfilEstudiante {
 
 #### Práctica
 
-**Práctica**: [Clic para programar](https://replit.com/@yourusername/lesson2-variables) **¡No es necesario registrarse!**
+**Práctica**: [Clic para programar](https://onlinegdb.com/bUI8CwLZk) **¡No es necesario registrarse!**
 
 **Ejercicio**: Crea variables con tu propio nombre, edad y promedio escolar, luego imprímelas en consola.
 
@@ -566,8 +566,8 @@ public class EjemploCorregido {
 
 | N° de lección | Actividad | Empezar a programar |
 |---------------|-----------|---------------------|
-| 1 | Hola Mundo | [Replit](https://replit.com/@yourusername/lesson1-hola-mundo) |
-| 2 | Variables | [Replit](https://replit.com/@yourusername/lesson2-variables) |
+| 1 | Hola Mundo | [OnlineGDB](https://onlinegdb.com/FVMd5t2_e) |
+| 2 | Variables | [OnlineGDB](https://onlinegdb.com/bUI8CwLZk) |
 | 3 | Bucles y condiciones | [JDoodle](https://jdoodle.com/execute-java-online/REEMPLAZAR-ID3) |
 | 4 | Métodos y Scanner | [OnlineGDB](https://onlinegdb.com/REEMPLAZAR-ID4) |
 | 5 | Programa POO | [Replit](https://replit.com/@yourusername/lesson5-poo-estudiante) |
