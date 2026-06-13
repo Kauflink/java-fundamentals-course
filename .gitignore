@@ -1,0 +1,10 @@
+# Compiled class files
+*.class
+out/
+bin/
+
+# Replit / editor metadata
+.replit
+replit.nix
+.config/
+.upm/
