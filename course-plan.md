@@ -129,7 +129,7 @@ public class PerfilEstudiante {
 
 #### Práctica
 
-**Práctica**: [Clic para programar](https://onlinegdb.com/bUI8CwLZk) **¡No es necesario registrarse!**
+**Práctica**: [Abrir en OnlineGDB – Variables](https://onlinegdb.com/bUI8CwLZk)
 
 **Ejercicio**: Crea variables con tu propio nombre, edad y promedio escolar, luego imprímelas en consola.
 
