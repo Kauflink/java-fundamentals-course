@@ -199,7 +199,7 @@ while (intentos < 3) {
 }
 ```
 
-> **Pausa y prueba:** antes de ejecutar el bucle `for`, intenta adivinar qué imprimirá. Luego córrelo y compara.
+> **Pausa y prueba:** elige el bucle `for` o el `while`, adivina qué imprimirá y luego córrelo para comprobar.
 
 **Antes de seguir: ¿qué es un arreglo?**
 
@@ -576,7 +576,7 @@ public class EjemploCorregido {
 - **Cuestionario de conocimientos**: [Prueba aquí](https://forms.gle/REEMPLAZAR-QUIZ)
 - **Comparte tu progreso**: #JavaParaPrincipiantes
 
-**¡Gracias por completar el curso! **
+**¡Gracias por completar el curso!**
 
 ---
 
