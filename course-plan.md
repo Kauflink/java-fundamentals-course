@@ -562,7 +562,7 @@ public class EjemploCorregido {
 
 #### Práctica
 
-**Práctica final**: [Abrir en OnlineGDB – Reto Aula](https://onlinegdb.com/IY4rBZQzZC)
+**Práctica final**: [Abrir en OnlineGDB – Reto Aula](https://onlinegdb.com/IY4rBZQzZC](https://onlinegdb.com/BcTy_OVGZ)
 
 **Reto**: Crea una clase `Aula` con un array de 5 objetos `Estudiante`. Recorre el array e imprime cuántos aprobaron y cuántos desaprobaron.
 
