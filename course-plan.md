@@ -255,7 +255,7 @@ public class VerificadorNotas {
 
 ---
 
-### Lección 4: Métodos y Entrada/Salida (9 minutos)
+### Lección 4: Métodos y Entrada/Salida (13 minutos)
 
 **Dificultad**: ⭐⭐⭐☆☆ Intermedio básico
 
@@ -343,7 +343,7 @@ public class EntradaUsuario {
 **Dificultad**: ⭐⭐⭐⭐☆ Intermedio
 
 - **Descripción**: Construye clases completas con atributos privados, constructores y métodos. Al final crearás un pequeño sistema de registro de estudiantes usando POO.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=REEMPLAZAR-LINK5)
+- **Enlace**: [Ver la lección](https://youtu.be/L52nIJ6yN40)
 
 #### Objetivos
 
