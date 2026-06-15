@@ -153,7 +153,7 @@ public class PerfilEstudiante {
 **Dificultad**: ⭐⭐⭐☆☆ Intermedio básico
 
 - **Descripción**: Toma decisiones con `if-else` y repite tareas automáticamente con bucles `for` y `while`. Crearás un verificador de notas aprobatorias.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=REEMPLAZAR-LINK3)
+- **Enlace**: [Ver la lección](https://youtu.be/JOQ36uZp_ag)
 
 #### Objetivos
 
